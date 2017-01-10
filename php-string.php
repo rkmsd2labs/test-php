@@ -1,3 +1,3 @@
 <?php
- // php code
+ echo "Hi there!";
 ?>
